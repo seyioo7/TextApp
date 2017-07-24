@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="HelloXamarin">Hello World, Sheyman Welcome To Your First App!</string>
+    <string name="ApplicationName">TestApp</string>
+  <string name="ButtonClick">Click To Access</string>
+</resources>

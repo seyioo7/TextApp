@@ -1,0 +1,15 @@
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.dll
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.pdb
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.TestApp.apk
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.TestApp-Signed.apk
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.dll
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.pdb
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\android\bin\TestApp.TestApp.apk
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\res\layout\main.xml
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\res\values\strings.xml
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\res\drawable\icon.png
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\R.cs.flag
+c:\users\dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\uploadflags.txt
+C:\Users\Dell\documents\visual studio 2017\Projects\TestApp\TestApp\bin\Debug\TestApp.dll.mdb
+C:\Users\Dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\android\assets\TestApp.dll.mdb
+C:\Users\Dell\documents\visual studio 2017\Projects\TestApp\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
